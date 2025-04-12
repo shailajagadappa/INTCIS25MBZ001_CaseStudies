@@ -36,8 +36,8 @@ select item_name from menu_items where item_id = 5;
 
 update menu_items set price = 150 where item_id = 2;
 
-insert into users values (1, 'Rupesh1', 'ABC');
-insert into users values (2, 'Rupesh2', 'ABC');
+insert into users values (1, 'Shailaja', 'Hyd');
+insert into users values (2, 'Yashasvini', 'Hyd');
 
 insert into cart values (1, 2, 1), (2, 3, 1), (3, 5, 1);
 
